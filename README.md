@@ -2,9 +2,9 @@
 
 This project is a music player app built using C# and MySQL. The app allows users to search for songs in the database and insert new records.
 
-# Project ER Diagram: ERDiagram.jpg
+# Project ER Diagram:  <img src= 'ERDiagram.jpg' title='ER Diagram' width='' alt='Video Walkthrough' />
 
-# Prohect Demo: AnSQLDatabaseAlbums.gif
+# Prohect Demo:   <img src= 'AnSQLDatabaseAlbums.gif' title='Project Demo' width='' alt='Video Walkthrough' />
 
 
 Project Demo
